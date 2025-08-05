@@ -8,15 +8,12 @@ I'm a Computer Engineering student at UIUC, passionate about hardware, low-level
 
 
 ## Featured Projects
-
-- [**AI MAC Accelerator**](https://github.com/leytonkm/ai-mac-accelerator)  
-  Parameterized hardware matrix multiplier with CUDA and C++ benchmarks.
 - [**FPGA Spectroscopy Platform**](https://github.com/leytonkm/spectroscopy-fpga)  
   Real-time signal acquisition and control using Xilinx Zynq SoC.
-- [**Safira Search Backend**](https://github.com/leytonkm/safira-search)  
-  High-performance vector search using Qdrant and Python.
+- [**AI MAC Accelerator**](https://github.com/leytonkm/ai-mac-accelerator)  
+  Parameterized hardware matrix multiplier with CUDA and C++ benchmarks.
 
-## 📫 Connect
+## Connect
 [LinkedIn](https://linkedin.com/in/leytonmueller) | [Email](mailto:leytonm2@illinois.edu)
 
 
