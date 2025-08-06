@@ -17,5 +17,4 @@ I'm a Computer Engineering student at UIUC, passionate about hardware, low-level
 [LinkedIn](https://linkedin.com/in/leytonmueller) | [Email](mailto:leytonm2@illinois.edu)
 
 
-[![Leyton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leytonkm&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
