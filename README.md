@@ -1,13 +1,16 @@
 # Hello, I'm Leyton
 
-I'm a Computer Engineering student at UIUC with a strong interest in computer architecture, low-level programming, and AI. I'm currently a student researcher working on hardware-software integration projects involving FPGA development, system-level design, and embedded AI.
+I'm a Computer Engineering student at UIUC with a strong interest in computer architecture, low-level programming, and AI.  
+Currently focused on FPGA, system-level design, and embedded AI projects.
 
-<!-- Stats and activity: -->
-![Leyton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leytonkm&show_icons=true&hide_title=true&count_private=true&theme=default)
+<!-- Main GitHub stats:  -->
+![Leyton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leytonkm&show_icons=true&hide_title=true&count_private=true&theme=default&hide=issues,contribs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leytonkm&layout=compact&hide_title=true&hide=css,html&theme=default)
 
-<!-- GitHub activity graph (shows commits and PRs): -->
+<!-- 
 [![Leyton's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leytonkm&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 ## Featured Projects
 
