@@ -14,7 +14,7 @@ Currently focused on FPGA, system-level design, and embedded AI projects.
 
 ## Featured Projects
 
-- [**FPGA Spectroscopy Platform**]([https://github.com/leytonkm/spectroscopy-fpga](https://github.com/leytonkm/fpga-spectroscopy-program))  
+- [**FPGA Spectroscopy Platform**](https://github.com/leytonkm/spectroscopy-fpga](https://github.com/leytonkm/fpga-spectroscopy-program )  
   Real-time signal acquisition and control on Xilinx Zynq SoC.
 - [**AI MAC Accelerator**](https://github.com/leytonkm/ai-mac-accelerator)  
   Parameterized hardware matrix multiplier with CUDA and C++ benchmarks.
