@@ -18,6 +18,8 @@ Currently focused on FPGA, system-level design, and embedded AI projects.
   Real-time signal acquisition and control on Xilinx Zynq SoC.
 - [**AI MAC Accelerator**](https://github.com/leytonkm/ai-mac-accelerator)  
   Parameterized hardware matrix multiplier with CUDA and C++ benchmarks.
+- [**Parallel Mergesort**](https://github.com/leytonkm/parallelmergesort)
+  Parallel merge sort for linked lists using POSIX threads with performance benchmarking.
 
 ## Connect
 
