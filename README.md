@@ -1,6 +1,6 @@
 # Hello, I'm Leyton
 
-I'm a Computer Engineering student at UIUC with a strong interest in computer architecture, low-level programming, and AI.  
+I'm a Computer Engineering student at UIUC with a strong interest in computer architecture, low-level programming, and embedded systems.  
 Currently focused on FPGA, system-level design, and embedded AI projects.
 
 <!-- Main GitHub stats:  -->
